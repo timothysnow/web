@@ -1,0 +1,13 @@
+.flex-wrapper {
+    display: flex;
+  }
+  
+  .column {
+    flex: 1;
+  }
+  
+  .with-border {
+    border-width: 1px;
+    border-color: #000000;
+    border-style: solid;
+  }

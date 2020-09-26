@@ -1,0 +1,11 @@
+.column {
+    float: left;
+    width: 33%;
+}
+
+.with-border {
+    box-sizing: border-box;
+    border-width: 1px;
+    border-color: #000000;
+    border-style: solid;
+  }
