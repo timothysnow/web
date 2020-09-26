@@ -1,0 +1,27 @@
+.flex-wrapper {
+    display: flex;
+  }
+  
+  .vertical-space {
+    height: 100px;
+  }
+  
+  .column {
+    flex: 1;
+  }
+  
+  .full-height {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .scrollable-pannel {
+    overflow-y: auto;
+  }
+  
+  .with-border {
+    border-width: 1px;
+    border-color: #000000;
+    border-style: solid;
+  }
