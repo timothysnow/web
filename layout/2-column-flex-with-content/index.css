@@ -1,0 +1,25 @@
+.flex-wrapper {
+    display: flex;
+}
+
+.column {
+    flex: 1;
+}
+
+.short-block {
+    height: 30px;
+}
+
+.medium-block {
+    height: 50px;
+}
+
+.long-block {
+    height: 80px;
+}
+
+.with-border {
+    border-width: 1px;
+    border-color: #000000;
+    border-style: solid;
+}
